@@ -1,1 +1,1 @@
-# simple-interest-calculator
+SI= (P * R* T)/100
